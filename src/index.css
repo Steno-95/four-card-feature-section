@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Poppins", Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --red: hsl(0, 78%, 62%);
+  --cyan: hsl(180, 62%, 55%);
+  --orange: hsl(34, 97%, 64%);
+  --blue: hsl(212, 86%, 64%);
+
+  --grey-light: hsl(212, 6%, 44%);
+  --grey-dark: hsl(234, 12%, 34%);
+  --white: hsl(0, 0%, 100%);
+}
+
+body {
+  box-sizing: border-box;
+  font-size: clamp(0.8em, 0.8em + 4vw, 3em);
+}
