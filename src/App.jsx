@@ -39,7 +39,7 @@ const cards = [
 
 function App() {
   return (
-    <div className="flex flex-col mx-5 ">
+    <div className="flex flex-col mx-5 my-10">
       <header className="text-center my-10 lg:max-w-[40rem] mx-auto">
         <h2 className="text-[var(--grey-light)] text-[1.5rem]">
           Reliable, efficient delivery
