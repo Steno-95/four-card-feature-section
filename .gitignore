@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 design
-*.md
 
 # Design files (please do not remove 🙂)
 *.sketch
