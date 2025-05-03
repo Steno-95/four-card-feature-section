@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "color": "border-t-(--cyan)",
+      "title": "Supervisor",
+      "description": "Monitors activity to identify project roadblocks",
+      "icon": "supervisor",
+      "pos": "lg:col-start-1 lg:row-start-2 lg:row-end-4"
+    },
+    {
+      "color": "border-t-(--red)",
+      "title": "Team Builder",
+      "description": "Scans our talent network to create the optimal team for your project",
+      "icon": "team-builder",
+      "pos": "lg:col-start-2 lg:row-start-1 lg:row-end-3 "
+    },
+    {
+      "color": "border-t-(--orange)",
+      "title": "Karma",
+      "description": "Regularly evaluates our talent to ensure quality",
+      "icon": "karma",
+      "pos": "lg:col-start-2 lg:row-start-3 lg:row-end-5"
+    },
+    {
+      "color": "border-t-(--blue)",
+      "title": "Calculator",
+      "description": "Uses data from past projects to provide better delivery estimates",
+      "icon": "calculator",
+      "pos": "lg:col-start-3 lg:row-start-2 lg:row-end-4"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 function CardDescription({ children }) {
   return (
-    <p className="text-[var(--grey-light)] font-extralight text-[1rem]">
+    <p className="text-(--grey-light) font-extralight text-[1rem]">
       {children}
     </p>
   );
